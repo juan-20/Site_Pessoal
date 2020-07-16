@@ -380,6 +380,14 @@ p {
             color:#ff7300;
         }
 
+        .cod{
+          left: 70%;
+        }
+
+        .btn:hover{
+          background-color: #8cad72;
+        }
+
 
 
 .dark {
